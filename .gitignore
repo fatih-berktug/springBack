@@ -1,0 +1,11 @@
+.DS_Store
+/work/
+/logs/
+/WebContent/WEB-INF/classes/
+/target/
+.settings
+.project
+.classpath
+/bin/
+.idea
+idea/
